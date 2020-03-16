@@ -1,0 +1,16 @@
+{
+  "name": "referral-code-generator",
+  "version": "1.0.2",
+  "description": "A package that helps use generate referral code for your users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "referral",
+    "code",
+    "generator"
+  ],
+  "author": "Temitope Ayotunde",
+  "license": "MIT"
+}
